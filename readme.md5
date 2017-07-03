@@ -1,3 +1,4 @@
 1.结合mysql数据库，具体配置在DataBase.java中修改
 	--|数据库名wechat
 		--|表格：user、messageLeft、friendslist
+			--|字段：username、password、id，id、username、content，id、username、list
